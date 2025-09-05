@@ -79,6 +79,8 @@ Example file structure:
     └── running-services.md
 ```
 
+[!CAUTION] When using nested directories, be aware of Docsify's path handling limitations. See the Path handling section below for details.
+
 ## Nested Sidebars
 
 You may want the sidebar to update after navigation to reflect the current directory. This can be done by adding a `_sidebar.md` file to each folder.
