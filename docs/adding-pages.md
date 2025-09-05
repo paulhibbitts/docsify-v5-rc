@@ -159,7 +159,7 @@ And the `{docsify-ignore}` and `{docsify-ignore-all}` can do the samething as we
 
 ## Path handling
 
-Docsify handles paths inconsistently and in non-standard ways, which can cause links to break in nested directories. Until these path handling issues are resolved, understanding these behaviors helps prevent broken links.
+Docsify currently handles paths inconsistently and in non-standard ways, which can cause links to break in nested directories. Until these path handling issues are resolved, understanding these behaviors helps prevent broken links.
 
 ### Current Behavior
 
