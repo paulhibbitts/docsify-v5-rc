@@ -79,7 +79,7 @@ Example file structure:
     └── running-services.md
 ```
 
-[!CAUTION] When using nested directories, be aware of Docsify's path handling limitations. See the Path handling section below for details.
+> [!CAUTION] When using nested directories, be aware of Docsify's path handling limitations. See the Path handling section below for details.
 
 ## Nested Sidebars
 
