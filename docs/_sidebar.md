@@ -4,7 +4,7 @@
 
   - [Quick start](quickstart.md)
   - [Adding pages](adding-pages.md)
-  - [Path Handling](path-handling.md) 
+  - [Path handling](path-handling.md) 
   - [Cover page](cover.md)
   - [Custom navbar](custom-navbar.md)
 
