@@ -1,4 +1,4 @@
-# Path Handling
+# Path handling
 
 Docsify handles paths inconsistently and in non-standard ways, which can cause links to break in nested directories. Until these path handling issues are resolved, understanding these behaviors helps prevent broken links.
 
